@@ -1,12 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>0.0.1</latestVersion>
-    <latestVersionCode>1</latestVersionCode>
+    <latestVersion>1.2.2</latestVersion>
+    <latestVersionCode>10</latestVersionCode>
     <url>https://github.com/javiersantos/AppUpdater/releases</url>
-    <releaseNotes>
-    - Test
-    - Test Test
-    - Test Test Test
-    </releaseNotes>
   </update>
 </AppUpdater>
