@@ -1,4 +1,4 @@
-<AppUpdaterTest>
+<AppUpdater>
   <update>
     <latestVersion>0.0.1</latestVersion>
     <latestVersionCode>1</latestVersionCode>
@@ -9,4 +9,4 @@
     - Test Test Test
     </releaseNotes>
   </update>
-</AppUpdaterTest>
+</AppUpdater>
